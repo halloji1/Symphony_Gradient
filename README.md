@@ -442,6 +442,10 @@ class Beacon:
 
 We welcome contributions from the community! Symphony is designed to be an open, collaborative platform for advancing decentralized AI research.
 
+## 🤝 Contact
+
+If you are interested in our research, please contact tianyu@gradient.network. 
+
 
 ## 📝 Citation
 
